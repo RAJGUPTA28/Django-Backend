@@ -5,7 +5,7 @@ Django makes it easier to build web pages using Python.
 
 ![img](https://github.com/RAJGUPTA28/Django-Backend/blob/main/IMG/DJ.png)
 
-How does Django Work?
+# How does Django Work?
 Django follows the MVT design pattern (Model View Template).
 
 Model - The data you want to present, usually data from a database.
