@@ -21,3 +21,11 @@ Django, with ORM, makes it easier to communicate with the database, without havi
 
 The models are usually located in a file called models.py.
 
+- *View*
+A view is a function or method that takes http requests as arguments, imports the relevant model(s), and finds out what data to send to the template, and returns the final result.
+The views are usually located in a file called views.py.
+
+- *Template*
+A template is a file where you describe how the result should be represented.
+
+Templates are often .html files, with HTML code describing the layout of a web page, but it can also be in other file formats to present other results, but we will concentrate on .html files.
