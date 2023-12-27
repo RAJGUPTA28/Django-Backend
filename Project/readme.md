@@ -6,3 +6,4 @@
 2. Calculator Application
 3. Text to HTML converter
 4. Calorie tracker
+5. Email sender
